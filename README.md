@@ -132,7 +132,8 @@ Replace `image1.png`, `image2.png`, etc. with your own uploaded image paths.
 <table>
   <tr>
     <td align="center">
-      <img src="image1.png" width="100%" alt="Project Screenshot 1"/>
+      <img src="<img width="1774" height="802" alt="image" src="https://github.com/user-attachments/assets/972ea67b-1fe2-4dad-a304-fcaebc90ac0c" />
+" width="100%" alt="Project Screenshot 1"/>
     </td>
     <td align="center">
       <img src="image2.png" width="100%" alt="Project Screenshot 2"/>
