@@ -125,37 +125,11 @@ The ensemble model significantly outperformed single-model baselines.
 ## 🖼️ Project Gallery  
 
 Below is the gallery layout.  
-Each row displays **two images side-by-side**.
+<img width="1774" height="802" alt="image" src="https://github.com/user-attachments/assets/f8ae5d4f-c27a-4341-a4cd-7b8451266971" />   <img width="1766" height="794" alt="image" src="https://github.com/user-attachments/assets/6571ce1b-0714-499e-ae77-ef120069fe55" />
 
-Replace `image1.png`, `image2.png`, etc. with your own uploaded image paths.
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="<img width="1774" height="802" alt="image" src="https://github.com/user-attachments/assets/972ea67b-1fe2-4dad-a304-fcaebc90ac0c" />
-" width="100%" alt="Project Screenshot 1"/>
-    </td>
-    <td align="center">
-      <img src="image2.png" width="100%" alt="Project Screenshot 2"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="image3.png" width="100%" alt="Project Screenshot 3"/>
-    </td>
-    <td align="center">
-      <img src="image4.png" width="100%" alt="Project Screenshot 4"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="image5.png" width="100%" alt="Project Screenshot 5"/>
-    </td>
-    <td align="center">
-      <!-- Empty cell if odd number of images -->
-    </td>
-  </tr>
-</table>
+
+
 
 ---
 
