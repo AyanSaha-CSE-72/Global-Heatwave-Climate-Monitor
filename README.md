@@ -126,7 +126,7 @@ The ensemble model significantly outperformed single-model baselines.
 
 Below is the gallery layout.  
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f8ae5d4f-c27a-4341-a4cd-7b8451266971" />   <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/6571ce1b-0714-499e-ae77-ef120069fe55" />
-<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/78b57b99-c417-4ce0-a6b4-a8438953e1be" />    <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/c45505b0-2566-4f0a-9be7-7ed4fa199ac9" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/78b57b99-c417-4ce0-a6b4-a8438953e1be" />    <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/c45505b0-2566-4f0a-9be7-7ed4fa199ac9" />
 
 
 
