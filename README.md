@@ -154,5 +154,6 @@ This AI Heatwave Early Warning Dashboard presents a **scientifically structured,
 
 ---
 
-## © Footer  
+## 
 **Built by Ayan Saha**
+© 2025 AI Heatwave Project. All rights reserved.
