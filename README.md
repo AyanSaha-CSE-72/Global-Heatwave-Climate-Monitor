@@ -134,46 +134,6 @@ Below is the gallery layout.
 
 
 ---
-
-## 💻 Installation Guide  
-
-### **1. Clone Repository**
-```bash
-git clone https://github.com/your-username/ai-heatwave-early-warning.git
-cd ai-heatwave-early-warning
-```
-
-### **2. Install Dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-### **3. Run Application**
-```bash
-python app.py
-```
-
-### **4. Environment Setup**
-Create a `.env` file:
-```
-WEATHER_API_KEY=your_api_key
-SMS_GATEWAY_KEY=your_gateway_key
-SATELLITE_SOURCE=MODIS
-```
-
----
-
-## 📂 Folder Structure  
-```
-📁 project-root
- ├── 📁 models
- ├── 📁 data
- ├── 📁 api
- ├── app.py
- ├── requirements.txt
- └── README.md
-```
-
 ---
 
 ## 📌 Future Work  
@@ -190,7 +150,7 @@ This AI Heatwave Early Warning Dashboard presents a **scientifically structured,
 ---
 
 ## 🖊️ Citation  
-**Saha, A. (2025). AI Heatwave Early Warning Dashboard: A Satellite-Assisted Hybrid Ensemble Model for 7-Day Heatwave Forecasting.**
+**Ayan,Saha (2025). AI Heatwave Early Warning Dashboard: A Satellite-Assisted Hybrid Ensemble Model for 7-Day Heatwave Forecasting.**
 
 ---
 
