@@ -1,0 +1,5 @@
+{
+  "name": "AI Heatwave Early Warning Dashboard",
+  "description": "A climate-AI dashboard for analyzing temperature forecasts, predicting heatwaves, and sending alerts. Built by Ayan Saha.",
+  "requestFramePermissions": []
+}
